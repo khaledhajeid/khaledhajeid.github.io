@@ -30,7 +30,7 @@ export function Footer() {
               Get in Touch
             </a>
             <a
-              href="/resume.pdf"
+              href="/Khaled Al-Haj EId CV.pdf"
               download
               className="inline-flex items-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-medium text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-[0_0_20px_rgba(0,123,255,0.3)]"
             >
