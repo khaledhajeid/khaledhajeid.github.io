@@ -36,8 +36,8 @@ const COMMANDS: Record<string, string[]> = {
   ],
   contact: [
     "GitHub:   github.com/khaledhajeid",
-    "LinkedIn: linkedin.com/in/khaledhajeid",
-    "Email:    khaled@example.com",
+    "LinkedIn: linkedin.com/in/khaledalhajeid",
+    "Email:    khaled1.hajeid@gmail.com",
   ],
 }
 
